@@ -1,8 +1,8 @@
 # TODO Concept - Flutter Demo
 
-Simple TODO Concept App made with Flutter. Using nested Animated Widgets.
+Clear and pretty TODO Concept App made with Flutter. Using nested Animated Widgets.
 Inspired in Jae-seong, Jeong's design "iPhone X - Todo Concept" [link](https://dribbble.com/shots/3812962-iPhone-X-Todo-Concept).
-The full video in my Youtube channel [link](https://youtube.com/shorts/ODXSrANTDBw?feature=share) and my Flutter Demos App video list [link](https://www.youtube.com/playlist?list=PL29yTdfAdnEfQ1U0hRkFxqD-ei2ux8-Hk)
+The full video in my Youtube channel [link](https://youtu.be/hm4l4xXIDyU) and my Flutter Demos App video list [link](https://www.youtube.com/playlist?list=PL29yTdfAdnEfQ1U0hRkFxqD-ei2ux8-Hk)
 - AnimatedContainer.
 - AnimatedPositioned.
 - PageView.builder.
